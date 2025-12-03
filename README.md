@@ -1,7 +1,7 @@
-# 👋 Zerevan Khalil
+# 👤 Zerevan Khalil
 
 > **Computer Science Student** @ University of Zakho, Iraq  
-> 🎵 Music Producer | 💻 Developer | 🎨 Designer | 🚀 DevOps Enthusiast
+> 🎵 Music Producer | 💻 Developer | 🎨 Designer | 🚀 DevOps Specialist
 
 ---
 
@@ -9,35 +9,35 @@
 
 Computer science student focused on writing clean, scalable, and maintainable code. I prioritize structured solutions, continuous learning, and thrive in collaborative environments across full-stack development, design, and DevOps.
 
-### 🌟 Core Competencies
-- **Music Production** 🎧
+### 📌 Core Competencies
+- **Music Production** 🎵
 - **Software Development** 💻
 - **UI/UX Design** 🎨
 - **Video Editing** 🎬
 
 ---
 
-## 🌍 Languages
+## 🌐 Languages
 
 ### 📝 Natural Languages
 - 🇬🇧 **English** - Fluent
-- 🇸🇦 **Arabic** - Good enough
+- 🇸🇦 **Arabic** - Proficient
 - 🇰🇷 **Kurdish (Kurmanji)** - Native
 
 ---
 
-## 💻 Programming Languages
+## 💾 Programming Languages
 
 | Language | Level | Notes |
 |----------|-------|-------|
 | **C++** | 🟢 Pro | Strong fundamentals |
 | **JavaScript/TypeScript** | 🟢 Pro | Daily driver |
 | **Node.js** | 🟢 Pro | Backend development |
-| **Dart** | 🟢 Pro | Flutter expert |
+| **Dart** | 🟢 Pro | Flutter expertise |
 | **HTML/CSS** | 🟢 Pro | Web design |
-| **Python** | 🟡 Intermediate | Syntax challenges |
+| **Python** | 🟡 Intermediate | Working knowledge |
 | **PHP** | 🟡 Intermediate | Web backend |
-| **Golang** | 🟡 Intermediate | 2 small-scale projects |
+| **Golang** | 🟡 Intermediate | 2 projects |
 | **C#** | 🟠 Learning | Theoretical knowledge |
 | **Assembly** | 🟠 Beginner | Basic understanding |
 
@@ -53,22 +53,22 @@ Computer science student focused on writing clean, scalable, and maintainable co
 
 ---
 
-## 📊 Software Engineering & Architecture
+## 📐 Software Engineering & Architecture
 
 ### 🏗️ Architecture & Code Quality
 - **MVC Architecture** - Primary pattern for all projects
 - Clean, scalable, and maintainable code structure
 - Well-organized design patterns
 
-### 📋 Database & Analysis
+### 📊 Database & Analysis
 - **ER Diagrams** - Entity Relationship Modeling
 - **EER Diagrams** - Enhanced Entity Relationship Modeling
 - **System Analysis** - Requirements gathering & design
 
-### 📈 Development
+### 📋 Development
 - Software Development Life Cycle (SDLC)
 - Database design & optimization
-- Continuous learner
+- Continuous learning mindset
 - Collaborative team environments
 
 ---
@@ -77,16 +77,16 @@ Computer science student focused on writing clean, scalable, and maintainable co
 
 ```
 🐳 Docker           🔑 Redis
-🔄 Jenkins          ⚙️  Kubernetes
+🔄 Jenkins          ⚙️ Kubernetes
 📦 Git              ✅ GitHub Actions
 ```
 
 ---
 
-## 🚀 Frameworks & Libraries
+## 📚 Frameworks & Libraries
 
 ### Frontend
-- ⚛️ **React** (Library, I know 😄)
+- ⚛️ **React**
 - 🔗 **Next.js**
 - 📱 **React Native**
 - 🎨 **Angular**
@@ -97,7 +97,7 @@ Computer science student focused on writing clean, scalable, and maintainable co
 - 🏗️ **Qt**
 
 ### Mobile
-- 📱 **Flutter** - Very proficient ⭐
+- 📱 **Flutter** - High proficiency
 
 ---
 
@@ -116,6 +116,15 @@ Headless CMS preference for custom logic and flexibility.
 - 🖼️ **Canva Pro**
 - 🎬 **Adobe After Effects Pro**
 
-**Last Updated:** December 2025
+---
 
+## 📞 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🔗 [GitHub](https://github.com/yourprofile)
+- 🌐 [Portfolio](https://yourportfolio.com)
+
+---
+
+**Last Updated:** December 2025
 
