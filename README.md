@@ -7,13 +7,13 @@
 
 ## 🎯 About Me
 
-Computer science student focused on writing clean, scalable, and maintainable code. I prioritize structured solutions, continuous learning, and thrive in collaborative environments across full-stack development, design, and DevOps.
+Computer science student with focus on clean, scalable, and maintainable code. I prioritize structured solutions, continuous learning, and collaborative environments across full-stack development, design, and DevOps implementation.
 
 ### 📌 Core Competencies
-- **Music Production** 🎵
-- **Software Development** 💻
-- **UI/UX Design** 🎨
-- **Video Editing** 🎬
+- Music Production
+- Software Development
+- UI/UX Design
+- Video Editing
 
 ---
 
@@ -30,16 +30,16 @@ Computer science student focused on writing clean, scalable, and maintainable co
 
 | Language | Level | Notes |
 |----------|-------|-------|
-| **C++** | 🟢 Pro | Strong fundamentals |
-| **JavaScript/TypeScript** | 🟢 Pro | Daily driver |
-| **Node.js** | 🟢 Pro | Backend development |
-| **Dart** | 🟢 Pro | Flutter expertise |
-| **HTML/CSS** | 🟢 Pro | Web design |
-| **Python** | 🟡 Intermediate | Working knowledge |
-| **PHP** | 🟡 Intermediate | Web backend |
-| **Golang** | 🟡 Intermediate | 2 projects |
-| **C#** | 🟠 Learning | Theoretical knowledge |
-| **Assembly** | 🟠 Beginner | Basic understanding |
+| C++ | Advanced | Strong fundamentals |
+| JavaScript/TypeScript | Advanced | Primary development language |
+| Node.js | Advanced | Backend systems |
+| Dart | Advanced | Flutter development |
+| HTML/CSS | Advanced | Frontend markup & styling |
+| Python | Intermediate | General purpose use |
+| PHP | Intermediate | Web backend |
+| Golang | Intermediate | 2 production projects |
+| C# | Beginner | Foundational knowledge |
+| Assembly | Beginner | Low-level programming concepts |
 
 ---
 
@@ -47,38 +47,38 @@ Computer science student focused on writing clean, scalable, and maintainable co
 
 | Database | Experience | Status |
 |----------|------------|--------|
-| **MySQL** | ✅ | Currently using |
-| **PostgreSQL** | 📋 | Migration planned |
-| **MongoDB** | ✅ | NoSQL expertise |
+| MySQL | Production use | Active |
+| PostgreSQL | Planned | Migration in progress |
+| MongoDB | Production use | NoSQL implementation |
 
 ---
 
 ## 📐 Software Engineering & Architecture
 
-### 🏗️ Architecture & Code Quality
-- **MVC Architecture** - Primary pattern for all projects
-- Clean, scalable, and maintainable code structure
-- Well-organized design patterns
+### 🏗️ Architecture & Code Standards
+- MVC Architecture - Primary design pattern across all projects
+- SOLID principles and design patterns
+- Code scalability and maintainability
 
-### 📊 Database & Analysis
-- **ER Diagrams** - Entity Relationship Modeling
-- **EER Diagrams** - Enhanced Entity Relationship Modeling
-- **System Analysis** - Requirements gathering & design
+### 📊 Database & System Design
+- Entity Relationship (ER) Diagrams
+- Enhanced Entity Relationship (EER) Diagrams
+- System analysis and requirements specification
 
-### 📋 Development
+### 📋 Development Practices
 - Software Development Life Cycle (SDLC)
-- Database design & optimization
-- Continuous learning mindset
-- Collaborative team environments
+- Database optimization and design
+- Continuous learning and skill development
+- Team collaboration and code review
 
 ---
 
 ## 🛠️ DevOps & Tools
 
 ```
-🐳 Docker           🔑 Redis
-🔄 Jenkins          ⚙️ Kubernetes
-📦 Git              ✅ GitHub Actions
+Docker                Redis
+Jenkins               Kubernetes
+Git                   GitHub Actions
 ```
 
 ---
@@ -86,39 +86,39 @@ Computer science student focused on writing clean, scalable, and maintainable co
 ## 📚 Frameworks & Libraries
 
 ### Frontend
-- ⚛️ **React**
-- 🔗 **Next.js**
-- 📱 **React Native**
-- 🎨 **Angular**
+- React
+- Next.js
+- React Native
+- Angular
 
 ### Backend
-- 🟢 **Node.js/Express**
-- 🎯 **Laravel**
-- 🏗️ **Qt**
+- Node.js/Express
+- Laravel
+- Qt
 
 ### Mobile
-- 📱 **Flutter** - High proficiency
+- Flutter
 
 ---
 
-## 📰 CMS Experience
+## 📰 CMS Platforms
 
-Headless CMS preference for custom logic and flexibility.
+Preference for headless CMS implementations due to flexibility and custom logic requirements.
 
-- 🎯 **Strapi** (Headless)
-- 📘 **WordPress**
-
----
-
-## 🎓 Design Tools
-
-- 🎨 **Figma Pro**
-- 🖼️ **Canva Pro**
-- 🎬 **Adobe After Effects Pro**
+- Strapi
+- WordPress
 
 ---
 
-## 📞 Connect With Me
+## 🎓 Design & Production Tools
+
+- Figma Pro
+- Canva Pro
+- Adobe After Effects Pro
+
+---
+
+## 📞 Professional Links
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 🔗 [GitHub](https://github.com/yourprofile)
