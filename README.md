@@ -1,9 +1,5 @@
-## Hi there 👋
+## zerevan Khalil👋
+student at UOZ Majoring in comp Scie
 
 
-```
-Zerevan Khelil
-  *music Producer
-  *Developer
-  *Figma designer
   
