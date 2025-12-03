@@ -2,7 +2,7 @@
 
 
 ```
-**Zerevan Khelil**
+Zerevan Khelil
   *music Producer
   *Developer
   *Figma designer
