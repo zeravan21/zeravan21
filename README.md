@@ -76,8 +76,7 @@ Computer science student with focus on clean, scalable, and maintainable code. I
 ## 🛠️ DevOps & Tools
 
 ```
-Docker                Redis
-Jenkins               Kubernetes
+Docker                Redis               Kubernetes
 Git                   GitHub Actions
 ```
 
@@ -88,13 +87,12 @@ Git                   GitHub Actions
 ### Frontend
 - React
 - Next.js
-- React Native
 - Angular
 
 ### Backend
 - Node.js/Express
 - Laravel
-- Qt
+- Go
 
 ### Mobile
 - Flutter
@@ -114,7 +112,7 @@ Preference for headless CMS implementations due to flexibility and custom logic 
 
 - Figma Pro
 - Canva Pro
-- Adobe After Effects Pro
+- davinci resolve
 
 ---
 
